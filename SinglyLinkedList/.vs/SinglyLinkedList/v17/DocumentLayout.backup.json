@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DataStructures\\DataStructuresPractice\\SinglyLinkedList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2711DCF5-31C2-4B8F-91F2-EC84D724D358}|SinglyLinkedList\\SinglyLinkedList.vcxproj|D:\\DataStructures\\DataStructuresPractice\\SinglyLinkedList\\SinglyLinkedList\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2711DCF5-31C2-4B8F-91F2-EC84D724D358}|SinglyLinkedList\\SinglyLinkedList.vcxproj|solutionrelative:SinglyLinkedList\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\DataStructures\\DataStructuresPractice\\SinglyLinkedList\\SinglyLinkedList\\main.cpp",
+              "RelativeDocumentMoniker": "SinglyLinkedList\\main.cpp",
+              "ToolTip": "D:\\DataStructures\\DataStructuresPractice\\SinglyLinkedList\\SinglyLinkedList\\main.cpp",
+              "RelativeToolTip": "SinglyLinkedList\\main.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-02T22:36:11.172Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
